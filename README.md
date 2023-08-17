@@ -1,5 +1,4 @@
-# arksys
+# Redirect from archsys/karchsys to arksys-os
 
+The new project is on arksys-os organization:
 https://github.com/arksys-os
-
-https://github.com/David7ce/karchsys now is arksys project
